@@ -1,6 +1,14 @@
-# User Profiling and Segmentation 🧠📊
+# 🧠📊 AI-Powered User Profiling & Segmentation
 
-A complete machine learning project that performs **user profiling and segmentation** using Python. This project clusters users based on demographics, behavior, and interests to improve targeted advertising strategies.
+[![Python](https://img.shields.io/badge/python-v3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/flask-v2.3%2B-black.svg)](https://flask.palletsprojects.com/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
+[![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> A complete Flask-based machine learning app that profiles and segments users using demographics, behavior, and interests to power targeted advertising strategies. Built with Python, Flask, Pandas, and Scikit-learn.
+
+---
 
 ## 📂 Dataset
 
