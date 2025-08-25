@@ -10,36 +10,58 @@
 
 ---
 
-## 📂 Dataset
+## ✨ Features
 
-The dataset used contains demographic, behavioral, and interest-based information for ad users.
+- 🔐 Upload & Manage Data  
+  Import CSVs with demographic, behavioral, and interest features
 
-## 📊 Features Used
+- 🔎 EDA at a Glance  
+  Summary stats, missing value report, distributions, and correlations
 
-- Age, Gender, Income Level
-- Device Usage
-- Time Spent Online (Weekday & Weekend)
-- Likes and Reactions
-- Click-Through Rate (CTR)
-- Top Interests
+- 🧼 Preprocessing Pipeline  
+  Scaling (Standard/MinMax), one-hot encoding, and feature selection
 
-## 🔍 Techniques Applied
+- 🧩 Clustering (K-Means)  
+  Configurable K, inertia/Elbow and Silhouette diagnostics
 
-- Exploratory Data Analysis (EDA)
-- Data Preprocessing (Scaling & Encoding)
-- KMeans Clustering
-- Segment Analysis & Visualization (Radar Charts)
+- 🗺️ Segment Insights & Labels  
+  Auto-generated segment summaries (e.g., “Weekend Warriors”, “Engaged Professionals”, “Budget Browsers”)
 
-## 📌 Segment Examples
+- 📊 Visual Analytics  
+  Radar charts for segment profiles, cluster counts, PCA 2D plot
 
-- **Weekend Warriors**
-- **Engaged Professionals**
-- **Budget Browsers**  
-...and more
+---
 
-## 📈 Output
+## 🚀 Quick Start
 
-Radar chart visualizing 5 user segments based on online behavior and interaction metrics.
+```bash
+# Clone and setup
+git clone https://github.com/your-username/user-profiling-segmentation.git
+cd user-profiling-segmentation
+
+python -m venv venv
+# Linux/Mac:
+source venv/bin/activate
+# Windows (PowerShell):
+# .\venv\Scripts\Activate.ps1
+
+# Install dependencies
+pip install -r requirements.txt
+
+# (Optional) set environment variables
+# Linux/Mac:
+export FLASK_APP=app.py
+export FLASK_ENV=development
+# Windows (PowerShell):
+# $env:FLASK_APP="app.py"
+# $env:FLASK_ENV="development"
+
+# Run the app
+flask run
+
+# Open http://127.0.0.1:5000
+
+```
 
 
-
+---
