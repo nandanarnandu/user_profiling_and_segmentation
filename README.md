@@ -65,3 +65,17 @@ flask run
 
 
 ---
+
+## 📂 Dataset
+
+The dataset includes demographic, behavioral, and interest-based attributes for ad users.
+Typical Columns
+⦁	**Demographics**: age, gender, income_level
+
+⦁	**Device & Usage**: device_type, time_spent_weekday, time_spent_weekend
+
+⦁	**Engagement**: likes, reactions, ctr (click-through-rate)
+
+⦁	**Interests**: top_interests (or one-hot encoded interest columns)
+
+⦁	Place your CSV inside data/ (e.g., data/ad_users.csv) or upload via the web UI.
