@@ -79,3 +79,17 @@ Typical Columns
 ⦁	**Interests**: top_interests (or one-hot encoded interest columns)
 
 ⦁	Place your CSV inside data/ (e.g., data/ad_users.csv) or upload via the web UI.
+
+## 📊 Features Used
+
+⦁	Age, Gender, Income Level
+
+⦁	Device Usage
+
+⦁	Time Spent Online (Weekday & Weekend)
+
+⦁	Likes and Reactions
+
+⦁	Click-Through Rate (CTR)
+
+⦁	Top Interests
