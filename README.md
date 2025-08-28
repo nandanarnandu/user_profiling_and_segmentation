@@ -93,3 +93,13 @@ Typical Columns
 ⦁	Click-Through Rate (CTR)
 
 ⦁	Top Interests
+
+## 🔍 Techniques Applied
+
+⦁	Exploratory Data Analysis (EDA)
+
+⦁	Data Preprocessing (Scaling & Encoding)
+
+⦁	K-Means Clustering
+
+⦁	Segment Analysis & Visualization (Radar Charts & PCA)
