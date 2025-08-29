@@ -103,3 +103,36 @@ Typical Columns
 ⦁	K-Means Clustering
 
 ⦁	Segment Analysis & Visualization (Radar Charts & PCA)
+
+## 📌 Segment Examples
+
+⦁	**Exploratory Data Analysis (EDA)**
+
+⦁	**Weekend Warriors** — high weekend activity, mobile-first
+
+⦁	**Engaged Professionals** — higher income, strong CTR on weekdays
+
+⦁	**Budget Browsers** — low spend, moderate engagement
+
+## 📈 Output
+
+⦁	Radar chart visualizing 5 user segments across online behavior and interaction metrics
+
+⦁	Cluster diagnostics: Elbow (inertia) & Silhouette score plots
+
+⦁	Segment summary table with key stats per cluster
+
+## 🛠️ Tech Stack
+
+⦁	**Backend**: Python, Flask
+
+⦁	**ML/DS**: Pandas, NumPy, Scikit-learn
+
+⦁	**Visualization**: Matplotlib, Plotly (optional)
+
+⦁	**Utilities**: joblib (model persistence), python-dotenv (env vars)
+
+💡 Contributions, issues, and feature requests are welcome!
+
+
+---
