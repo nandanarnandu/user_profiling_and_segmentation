@@ -122,17 +122,7 @@ Typical Columns
 
 ⦁	Segment summary table with key stats per cluster
 
-## 🛠️ Tech Stack
 
-⦁	**Backend**: Python, Flask
-
-⦁	**ML/DS**: Pandas, NumPy, Scikit-learn
-
-⦁	**Visualization**: Matplotlib, Plotly (optional)
-
-⦁	**Utilities**: joblib (model persistence), python-dotenv (env vars)
-
-💡 Contributions, issues, and feature requests are welcome!
 
 
 ---
